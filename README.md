@@ -1,8 +1,8 @@
-# portfolio
+## Portfolio
 
 Meu site pessoal!
 
-## Tecnologias:
+# Tecnologias:
 
 - HTML
 - CSS
