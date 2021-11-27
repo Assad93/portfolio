@@ -8,4 +8,4 @@ Meu site pessoal!
 - CSS
 - JQuery
 
-link direto: devsalim93.netlify.app 
+link direto: https://devsalim93.netlify.app 
